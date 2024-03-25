@@ -1,0 +1,5 @@
+streamlit
+pandas
+os-environ
+pandasai
+langchain_community
